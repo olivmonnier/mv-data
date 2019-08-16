@@ -1,4 +1,4 @@
 {
 	"posttitle": "Post 1",
-	"posttext": "Lorem"
+	"posttext": "<p>Lorem</p>\n<h2>hello</h2>\n<p><em>foo bar</em></p>"
 }
